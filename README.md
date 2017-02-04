@@ -1,6 +1,8 @@
 # Advanced-Games-Programming
 The coursework submitted for Advanced Games Programming.
 
-Rain and Snow - Christie Irvine
-Normal Bump Mapping - Jonathan Livingstone
-Lights and Shadows - Kyle Hewitt
+Rain and Snow by Christie Irvine
+
+Normal Bump Mapping by Jonathan Livingstone
+
+Lights and Shadows by Kyle Hewitt
